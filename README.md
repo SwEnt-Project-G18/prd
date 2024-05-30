@@ -9,7 +9,7 @@ There is also a sample PRD under `samples/epfl-pocketcampus`; this is for the EP
 
 1. Fork this repo into your organization and clone it 
 ```
-git clone git@github.com:<SwEnt-Project-G18>/prd.git
+git clone git@github.com:SwEnt-Project-G18/prd.git
 cd prd
 ```
 
