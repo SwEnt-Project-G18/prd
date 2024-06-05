@@ -72,7 +72,7 @@ The timeline is TBD once the final MVP Functional requirements are defined.
 - **Development Tools:** Android Studio, GitHub, Firebase Console.
 - **Testing Tools:** JUnit, Espresso, Firebase Test Lab.
 - **Design Tools:** Figma, Adobe XD.
-- **Project Management Tools:** Jira, Trello, Slack.
+- **Project Management Tools:** Telegram, Discord, Mattermost
 
 ## Intermediate Milestones
 
