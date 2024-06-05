@@ -4,7 +4,6 @@
 !*Maximum: 2 pages*
 -->
 
-## Overview
 
 **GoMeet** is a versatile app designed to facilitate the creation and organization of live events, catering to a wide range of activities from concerts and festivals to work meetings and conferences. The primary objective of GoMeet is to streamline the process of sharing and planning real-life gatherings, making it easy for users to connect and meet in person. By providing a comprehensive suite of tools, GoMeet aims to become the go-to platform for event management and socialization, emphasizing ease of use and efficient communication.
 
